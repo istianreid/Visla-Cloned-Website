@@ -1,0 +1,520 @@
+/* desktop */
+/* 1312 and up */
+@media (min-width: 1312px) {
+}
+/* laptop */
+/* 1311px hanggang 992px */
+@media (min-width: 992px) and (max-width: 1311px) {
+  .fot {
+    padding: 60px 30px;
+  }
+
+  .fot .hello h1 {
+    font-size: 36px;
+    line-height: 1.33;
+    letter-spacing: -1px;
+    margin-bottom: 30px;
+  }
+  .fot .hello .con {
+    font-size: 20px;
+    padding: 17px 60px;
+  }
+
+  .fot .hello {
+    padding: 10px;
+  }
+  .fot .hello p {
+    font-size: 18px;
+    line-height: 1.5em;
+  }
+}
+/* tablet */
+/* 991px hanggang 688px */
+@media (min-width: 688px) and (max-width: 991px) {
+  .nav .menu ul li .btn {
+    display: none;
+  }
+
+  .human-centered .big-font {
+    padding: 40px;
+  }
+  .human-centered .big-font h1 {
+    font-size: 72px;
+    line-height: 60px;
+    padding-bottom: 25px;
+  }
+  .human-centered .big-font h2 {
+    text-align: left;
+    font-size: 42px;
+    line-height: 50px;
+    padding-bottom: 10px;
+  }
+  .human-centered .big-font a {
+    font-size: 42px;
+    line-height: 30px;
+  }
+
+  /* ### */
+
+  /* info */
+  #info-container {
+    padding: 40px 20px;
+  }
+  .info-box .card {
+    padding: 0 10px;
+  }
+
+  .info-box .card .top {
+    padding: 2px;
+    height: 100px;
+  }
+
+  .info-box .card .mid {
+    padding: 2px;
+    height: 25px;
+    min-height: 50px;
+  }
+  .info-box .card .low {
+    padding: 2px;
+    height: 100px;
+  }
+
+  .info-box .card img {
+    width: 80px;
+  }
+
+  .info-box .card h2 {
+    font-weight: 700;
+  }
+
+  .info-box .card i {
+    font-size: 30px;
+  }
+
+  .info-box .card h2 {
+    font-size: 28px;
+    font-weight: 700;
+  }
+
+  /* ### */
+
+  /* work box */
+
+  .workbox .workbox-item .item-content-1 {
+    background-color: #0275d8;
+    padding: 25px 24px;
+    min-height: 300px;
+    height: 300px;
+  }
+  .workbox .workbox-item .item-content-2 {
+    background-color: #038664;
+    padding: 25px 24px;
+    min-height: 300px;
+    height: 300px;
+  }
+  /* ### */
+
+  /* red button */
+
+  .red-btn {
+    text-align: center;
+    padding: 50px;
+  }
+
+  .red-btn a {
+    font-size: 25px;
+    padding: 15px 20px;
+    font-weight: 800;
+  }
+  /* ### */
+
+  /* Head masters */
+
+  .head-masters .masters p {
+    padding: 20px 0px;
+  }
+  /* ### */
+
+  /* sponsors Title */
+
+  .sponsors .trusted h1 {
+    font-size: 24px;
+  }
+
+  .sponsors {
+    justify-content: space-between;
+    margin: 0px 20px;
+    text-align: center;
+  }
+  .sponsors .row-container {
+    padding: 0px;
+  }
+  .sponsors .companies img {
+    width: 70px;
+    padding-bottom: 30px;
+  }
+
+  /* #### */
+
+  /* reliability */
+
+  .develop {
+    padding: 0px;
+    padding-bottom: 160px;
+    text-align: center;
+  }
+
+  .develop .focus h1 {
+    font-size: 32px;
+    margin-bottom: 48px;
+    padding: 0px 50px;
+  }
+
+  .develop .focus a {
+    font-size: 24px;
+    padding: 17px 70px;
+    font-weight: 800;
+  }
+  /* ### */
+
+  /* lets */
+
+  .lets .code {
+    padding: 60px;
+  }
+  .lets .code h1 {
+    font-size: 84px;
+    line-height: 50px;
+    padding: 0px;
+    font-weight: 600;
+  }
+  .lets .code h2 {
+    font-size: 32px;
+    padding-bottom: 70px;
+    line-height: 48px;
+  }
+  .lets .code a {
+    font-size: 24px;
+    padding: 17px 50px;
+    font-weight: 800;
+  }
+
+  /* ### */
+
+  /* Footer */
+
+  .fot {
+    padding: 60px 40px;
+  }
+
+  .fot .hello h1 {
+    font-size: 36px;
+    line-height: 1.33;
+    letter-spacing: -1px;
+    margin-bottom: 30px;
+  }
+  .fot .hello .con {
+    font-size: 19px;
+    padding: 17px 60px;
+  }
+
+  .fot .hello {
+    padding: 40px;
+  }
+  .fot .hello p {
+    font-size: 20px;
+    line-height: 1.5em;
+  }
+  .fot .hello a {
+    line-height: 1.5em;
+  }
+  .fot .tect-stack {
+    padding: 20px;
+  }
+
+  .fot .tect-stack h3 {
+    margin-bottom: 15px;
+    font-weight: 800;
+  }
+  /* ### */
+
+  .footer-icon {
+    border-top: #00304d solid;
+    padding: 15px;
+  }
+
+  .footer-icon .footer-logo img {
+    display: hide;
+  }
+  .footer-icon ul {
+    text-align: right;
+  }
+  .footer-icon ul li {
+    text-align: right;
+  }
+  .footer-icon ul li img {
+    padding: 10px;
+  }
+  /* ############## */
+}
+
+/* mobile */
+/* 667px and below */
+@media (max-width: 687px) {
+  /* navigation */
+  .nav {
+    padding: 10px 0px;
+    overflow: hidden;
+  }
+  .nav .row {
+    align-items: center;
+    display: block;
+  }
+  .nav .logo-visla img {
+    width: auto;
+    height: 36px;
+    margin: 15px;
+  }
+  .nav .menu ul {
+    text-align: center;
+  }
+  .nav .menu ul li {
+    padding: 20px 15px;
+  }
+
+  .nav .menu ul li .btn {
+    padding: 10px 80px;
+    margin: 5px 0px;
+    display: inline-block;
+    display: none;
+  }
+
+  /* ### */
+
+  /* big title */
+
+  .human-centered .big-font {
+    padding: 30px;
+  }
+  .human-centered .big-font h1 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 10px;
+  }
+  .human-centered .big-font h2 {
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 10px;
+  }
+  .human-centered .big-font a {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  /* ### */
+
+  /* info */
+  #info-container {
+    padding: 40px 20px;
+  }
+  .info-box .card {
+    padding: 0 10px;
+  }
+
+  .info-box .card .top {
+    padding: 2px;
+    height: 100px;
+  }
+
+  .info-box .card .mid {
+    padding: 2px;
+    height: 25px;
+    min-height: 50px;
+  }
+  .info-box .card .low {
+    padding: 2px;
+    height: 50px;
+  }
+
+  .info-box .card img {
+    width: 50px;
+  }
+
+  .info-box .card h2 {
+    font-weight: 700;
+  }
+
+  .info-box .card i {
+    font-size: 30px;
+  }
+
+  .info-box .card h2 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  /* ### */
+
+  /* work box */
+
+  .workbox .workbox-item .item-content-1 {
+    background-color: #0275d8;
+    padding: 25px 24px;
+    min-height: 300px;
+    height: 300px;
+  }
+  .workbox .workbox-item .item-content-2 {
+    background-color: #038664;
+    padding: 25px 24px;
+    min-height: 300px;
+    height: 300px;
+  }
+  /* ### */
+
+  /* red button */
+
+  .red-btn {
+    text-align: center;
+    padding: 50px;
+  }
+
+  .red-btn a {
+    font-size: 25px;
+    padding: 15px 20px;
+    font-weight: 800;
+  }
+  /* ### */
+
+  /* Head masters */
+
+  .head-masters .masters p {
+    padding: 20px 0;
+  }
+  /* ### */
+
+  /* sponsors Title */
+
+  .sponsors .trusted h1 {
+    font-size: 24px;
+  }
+
+  .sponsors {
+    justify-content: space-between;
+    margin: 0px 20px;
+    text-align: center;
+  }
+  .sponsors .row-container {
+    padding: 0px;
+  }
+  .sponsors .companies img {
+    width: 40px;
+    padding-bottom: 30px;
+  }
+
+  /* #### */
+
+  /* reliability */
+
+  .develop {
+    padding: 0px;
+    padding-bottom: 160px;
+    text-align: center;
+  }
+
+  .develop .focus h1 {
+    font-size: 24px;
+    margin-bottom: 48px;
+  }
+
+  .develop .focus a {
+    font-size: 20px;
+    padding: 17px 35px;
+    font-weight: 800;
+  }
+  /* ### */
+
+  /* lets */
+
+  .lets {
+    text-align: center;
+    background: #eff3f5;
+  }
+  .lets .code {
+    padding: 30px;
+  }
+  .lets .code h1 {
+    font-size: 48px;
+    line-height: 50px;
+    padding: 0px;
+    font-weight: 600;
+  }
+  .lets .code h2 {
+    font-size: 24px;
+    padding-bottom: 70px;
+    line-height: 48px;
+  }
+  .lets .code a {
+    font-size: 20px;
+    padding: 17px 60px;
+    font-weight: 800;
+  }
+
+  /* ### */
+
+  /* Footer */
+
+  .fot {
+    padding: 60px 0;
+  }
+
+  .fot .hello h1 {
+    font-size: 30px;
+    line-height: 1.33;
+    letter-spacing: -1px;
+    margin-bottom: 30px;
+  }
+  .fot .hello .con {
+    font-size: 17px;
+    padding: 17px 60px;
+  }
+
+  .fot .hello {
+    padding: 10px;
+  }
+  .fot .hello p {
+    font-size: 17px;
+    line-height: 1.5em;
+  }
+  .fot .hello a {
+    line-height: 1.5em;
+  }
+  .fot .tect-stack {
+    padding: 20px;
+  }
+
+  .fot .tect-stack h3 {
+    margin-bottom: 15px;
+    font-weight: 800;
+  }
+  /* ### */
+
+  .footer-icon {
+    border-top: #00304d solid;
+    padding: 15px;
+  }
+
+  .footer-icon .footer-logo img {
+    display: hide;
+  }
+  .footer-icon ul {
+    text-align: right;
+  }
+  .footer-icon ul li {
+    text-align: right;
+  }
+  .footer-icon ul li img {
+    padding: 10px;
+  }
+  /* ############## */
+}
